@@ -6,6 +6,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
 - [ ] Finish written report for SE 3354
 - [ ] Finish GitHub Assignments 
 - [ ] Take quiz 2
